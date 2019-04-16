@@ -4,7 +4,6 @@
 .ruby-gemset
 .ruby-version
 .vagrant
-app/assets/javascripts/i18n
 config/piwik.yml
 coverage
 doc
