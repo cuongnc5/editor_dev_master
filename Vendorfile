@@ -51,7 +51,7 @@ folder 'vendor/assets' do
   end
 
   folder 'iD' do
-    from 'git://github.com/openstreetmap/iD', :branch => 'release' do
+    from 'git://github.com/cuongnc5/IOT_ID.git', :branch => 'master' do
       folder 'iD/img', 'dist/img'
       folder 'iD/locales', 'dist/locales'
       folder 'iD/mapillary-js', 'dist/mapillary-js'
