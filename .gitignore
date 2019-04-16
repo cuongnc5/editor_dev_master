@@ -1,0 +1,15 @@
+*~
+.DS_Store
+.idea
+.ruby-gemset
+.ruby-version
+.vagrant
+app/assets/javascripts/i18n
+config/piwik.yml
+coverage
+doc
+log
+public/assets
+public/attachments
+public/export
+tmp
