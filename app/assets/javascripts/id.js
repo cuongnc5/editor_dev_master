@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
   } else {
     var id = iD.Context()
       .embed(true)
-      .assetPath("iD/")
+      .assetPath("assets/iD/")
       .assetMap(JSON.parse(container.dataset.assetMap))
       .locale(container.dataset.locale, container.dataset.localePath)
       .preauth({
